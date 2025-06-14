@@ -115,6 +115,6 @@ Which planet is known as the Red Planet?,Venus,Earth,Mars,Jupiter,3
 ## 🔥 Highlights
 
 - **Touch-Free Interface**: A unique approach to conducting quizzes without any physical interaction.
-- **Interactive Feedback**: Provides immediate visual cues for selections.
+- **Interactive Feedback**: Provides immediate visual cues for selections, progress bar and timer.
 - **Customizable**: Easily modify the quiz questions by editing the `Mcqs.csv` file.
 
